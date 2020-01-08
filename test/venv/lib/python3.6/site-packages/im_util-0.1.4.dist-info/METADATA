@@ -1,0 +1,37 @@
+Metadata-Version: 2.0
+Name: im-util
+Version: 0.1.4
+Summary: Utilities for the im package library; used by most of them
+Home-page: https://github.com/emlynoregan/im_util
+Author: Emlyn O'Regan
+Author-email: emlynoregan@gmail.com
+License: ../LICENSE.txt
+Description-Content-Type: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: System :: Distributed Computing
+Requires-Dist: cloudpickle
+
+# im_util
+This package contains miscellaneous utility functions for use by other im_* packages. 
+
+## Install
+
+Use the python package for this library. You can find the package online [here](https://pypi.org/project/im-util/).
+
+Change to your Python App Engine project's root folder and do the following:
+
+> pip install im_util --target lib
+
+Or add it to your requirements.txt. You'll also need to set up vendoring, see [app engine vendoring instructions here](https://cloud.google.com/appengine/docs/python/tools/using-libraries-python-27).
+
+
+

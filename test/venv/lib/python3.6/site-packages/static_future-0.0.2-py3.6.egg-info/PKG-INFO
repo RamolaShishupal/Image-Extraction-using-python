@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: static-future
+Version: 0.0.2
+Summary: Static analysis tool to establish which __future__ imports are used in python source code.
+Home-page: https://github.com/flyte/static-future
+Author: Ellis Percival
+Author-email: static-future@failcode.co.uk
+License: UNLICENSE
+Description: UNKNOWN
+Keywords: future __future__ static analysis python source code
+Platform: UNKNOWN

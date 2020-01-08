@@ -1,0 +1,10 @@
+README.rst
+setup.cfg
+setup.py
+static_future/__init__.py
+static_future/analysis.py
+static_future.egg-info/PKG-INFO
+static_future.egg-info/SOURCES.txt
+static_future.egg-info/dependency_links.txt
+static_future.egg-info/pbr.json
+static_future.egg-info/top_level.txt
